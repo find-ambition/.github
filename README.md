@@ -1,4 +1,4 @@
-# Tanikala community health files
+# Find Ambition community health files
 
 This repository contains the default contribution and project-management files
 used by repositories in the `find-ambition` organization.
@@ -8,9 +8,9 @@ overview, and reusable CI workflow templates for Python APIs and Vue application
 
 ## Engineering documentation
 
-- [`docs/architecture.md`](docs/architecture.md) — shared UI/API architecture,
+- [`docs/architecture.md`](docs/architecture.md) — Tanikala's shared UI/API architecture,
   product boundaries, data flow, and trust boundaries.
-- [`docs/infrastructure.md`](docs/infrastructure.md) — local topology, production
+- [`docs/infrastructure.md`](docs/infrastructure.md) — Tanikala's local topology, production
   target, CI/CD, runtime constraints, and operational readiness.
 
 Repository-specific files take precedence over these defaults. Ownership and CI
@@ -18,4 +18,4 @@ configuration remain in each application repository because they depend on that
 codebase.
 
 Questions that should not be posted publicly can be sent to
-`support@tanikala.ph`.
+`support@findambition.com`, or for Tanikala to `support@tanikala.ph`.

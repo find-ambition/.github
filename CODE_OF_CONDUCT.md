@@ -2,7 +2,7 @@
 
 ## Our standard
 
-Tanikala contributors are expected to communicate with respect, assume good faith,
+Find Ambition contributors are expected to communicate with respect, assume good faith,
 welcome constructive disagreement, and make participation safe for people of all
 backgrounds and levels of experience.
 
@@ -12,12 +12,13 @@ information, and sustained disruption of project work.
 
 ## Scope
 
-This standard applies in Tanikala repositories, projects, discussions, review
-threads, community spaces, and when representing Tanikala elsewhere.
+This standard applies in Find Ambition repositories, projects, discussions, review
+threads, community spaces, and when representing Find Ambition or its projects
+elsewhere.
 
 ## Reporting and enforcement
 
-Report conduct concerns privately to `support@tanikala.ph` with the subject
+Report conduct concerns privately to `support@findambition.com` with the subject
 `[Conduct]`. Include relevant links or screenshots when safe to do so. Do not post
 sensitive evidence in a public issue.
 

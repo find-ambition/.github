@@ -13,7 +13,8 @@ body:
         - Convos
         - Pondo
         - Sulat
-        - Ecosystem or shared platform
+        - Tanikala shared platform
+        - Find Ambition organization
         - Not sure
     validations:
       required: true

@@ -1,5 +1,5 @@
 {
-  "name": "Tanikala Python API CI",
+  "name": "Find Ambition Python API CI",
   "description": "Lint, format-check, and test a Python API managed with uv.",
   "iconName": "octicon server",
   "categories": ["Python"],

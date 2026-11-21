@@ -1,7 +1,7 @@
-# Tanikala governance
+# Find Ambition governance
 
 This document defines how engineering work and access are managed across the
-Tanikala organization.
+Find Ambition organization.
 
 ## Roles and access
 

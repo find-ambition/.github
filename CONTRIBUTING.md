@@ -1,12 +1,13 @@
-# Contributing to Tanikala
+# Contributing to Find Ambition projects
 
-Tanikala is an ecosystem of technology products intended to help Filipinos. Keep
-changes focused, reviewable, and respectful of the people whose data and trust the
-platform handles.
+Find Ambition builds software for its clients and its own products, including
+Tanikala, an ecosystem of technology products intended to help Filipinos. Keep
+changes focused, reviewable, and respectful of the people whose data and trust each
+project handles.
 
 ## Before starting
 
-1. Check the repository issues and the Tanikala Roadmap for existing work.
+1. Check the repository issues and the project's roadmap for existing work.
 2. Open or claim an issue before beginning a material feature or refactor.
 3. Confirm the acceptance criteria and affected application with a maintainer.
 
