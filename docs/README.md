@@ -15,5 +15,5 @@ The application repositories contain the detailed, versioned contracts and setup
 instructions. When these summaries disagree with repository code or documentation,
 the application repository is authoritative.
 
-- [Tanikala API documentation](https://github.com/tanikala-ph/tanikala-api/tree/main/docs)
-- [Tanikala UI documentation](https://github.com/tanikala-ph/tanikala-ui/tree/main/docs)
+- [Tanikala API documentation](https://github.com/find-ambition/tanikala-api/tree/main/docs)
+- [Tanikala UI documentation](https://github.com/find-ambition/tanikala-ui/tree/main/docs)

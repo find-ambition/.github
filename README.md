@@ -1,7 +1,7 @@
 # Tanikala community health files
 
 This repository contains the default contribution and project-management files
-used by repositories in the `tanikala-ph` organization.
+used by repositories in the `find-ambition` organization.
 
 It also publishes the organization profile, governance policy, shared engineering
 overview, and reusable CI workflow templates for Python APIs and Vue applications.
